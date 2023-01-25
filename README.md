@@ -8,6 +8,7 @@ A perfect project for newbies who are starting to build confidence with layouts!
 ## Created with
 - Semantic HTML5 Markup
 - CSS custom properties
+- Flexbox
 ## Resources
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/order-summary-component-XHBpQT9F14)
